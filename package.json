@@ -1,0 +1,39 @@
+{
+  "name": "mongo-mapper",
+  "version": "1.0.0",
+  "description": "An API generator for Mongoose Models",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rangle/mongo-mapper.git"
+  },
+  "keywords": [
+    "Mongo",
+    "Mongoose",
+    "API"
+  ],
+  "author": "rangle.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rangle/mongo-mapper/issues"
+  },
+  "homepage": "https://github.com/rangle/mongo-mapper",
+  "devDependencies": {
+    "body-parser": "^1.10.0",
+    "chai": "^1.10.0",
+    "express": "^4.10.4",
+    "gulp": "^3.8.10",
+    "q": "^1.1.2",
+    "rangle-gulp": "0.0.7",
+    "sinon": "^1.12.1",
+    "sinon-chai": "^2.6.0",
+    "supertest": "^0.15.0",
+    "underscore": "^1.7.0"
+  },
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
