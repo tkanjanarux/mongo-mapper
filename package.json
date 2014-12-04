@@ -30,10 +30,10 @@
     "rangle-gulp": "0.0.7",
     "sinon": "^1.12.1",
     "sinon-chai": "^2.6.0",
-    "supertest": "^0.15.0",
-    "underscore": "^1.7.0"
+    "supertest": "^0.15.0"
   },
   "dependencies": {
+    "koast-db-utils": "^1.0.0",
     "underscore": "^1.7.0"
   }
 }
